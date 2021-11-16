@@ -9,7 +9,7 @@ REGLA 1:
  REGLA 3: 
  
 el body con un margen del 0% texto alineado al centro el background image "cry-about-it.gif" el background-attachment: fixed 
-y la font-family: 'Faster one', cursive;
+y la font-family: 'Faster one', cursive; y font-family: 'Noto Serif SC', serif;
 
 REGLA 4;
 
@@ -29,7 +29,7 @@ REGLA 6;
  
  REGLA 8;
  
- .bogdanoov con un margin-top de 10% y un bottom de 5%, un width de 100% y un height de 100px.
+ .bogdanov con un margin-top de 10% y un bottom de 5%, un width de 100% y un height de 100px.
  
  REGLA 9;
  
