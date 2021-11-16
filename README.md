@@ -33,7 +33,7 @@ REGLA 6;
  
  REGLA 9;
  
- un #links con un tet-alight a la izquierda.
+ un #links con un text-align a la izquierda.
  
  REGLA 10;
  
