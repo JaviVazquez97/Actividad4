@@ -52,7 +52,7 @@ REGLA 6;
  h1,h2,h3,h4 con font-family: cursive; y un font-size de 2em
  
  REGLA 14; 
- 
+ .crypto
  un margin 0, auto y un width de 100% con un height auto.
  
  REGLA 15;
